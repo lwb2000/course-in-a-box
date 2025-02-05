@@ -3,16 +3,13 @@ layout: index
 published: true
 ---
 
-<center>Welcome to the California Libraries and AI Learning Experiences. Select one of the options below to get started.</center>
-
-<div style="margin-left:auto;margin-right:auto;background-color:#F2F2F2;text-align:center; padding:10px;"><h2>We've remodeled!</h2>
-<p>The ConnectedLib Toolkit has been refurbished to provide a better user experience and more relevance to small and rural libraries. If you can't find something you're looking for, <a href="mailto:cl21@uw.edu">please let us know</a>!</p>
-</div>
+<center> ## Welcome to the California Libraries and AI Learning Experiences. 
+Select one of the options below to get started.</center>
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
-    <div>introducing<br />the toolkit<br /><img src="/img/moduleLogos/introducing-the-toolkit.png" width="90px" alt="" />
+    <div>Welcome to Our <br />Learning Experiences<br />the toolkit<br /><img src="/img/moduleLogos/introducing-the-toolkit.png" width="90px" alt="" />
   </div></a></h2></div>
 
  <div class="grid-item"> <h2><a href="modules/basics/"><div>the connected learning<br />mindset<br />
