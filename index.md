@@ -3,13 +3,13 @@ layout: index
 published: true
 ---
 
-<center> ## Welcome to the California Libraries and AI Learning Experiences. 
-Select one of the options below to get started.</center>
+## Welcome to the California Libraries and AI Learning Experiences. 
+Select one of the options below to get started.
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
-    <div>Welcome to Our <br />Learning Experiences<br />the toolkit<br /><img src="/img/moduleLogos/introducing-the-toolkit.png" width="90px" alt="" />
+    <div>Welcome to Our <br />Learning Experiences<br /><img src="/img/moduleLogos/introducing-the-toolkit.png" width="90px" alt="" />
   </div></a></h2></div>
 
  <div class="grid-item"> <h2><a href="modules/basics/"><div>the connected learning<br />mindset<br />
