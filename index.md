@@ -12,15 +12,15 @@ Select one of the options below to get started.
     <div> Introduction to the <br />Learning Experiences<br /><img src="/img/moduleLogos/introducing-the-toolkit.png" width="90px" alt="" />
   </div></a></h2></div>
 
- <div class="grid-item"> <h2><a href="modules/basics/"><div>the connected learning<br />mindset<br />
+ <div class="grid-item"> <h2><a href="modules/basics/"><div>Basics of <br />AI<br />
  <img src="/img/moduleLogos/basics.png" width="90px" alt="Connected Learning Basics" />
 </div></a></h2></div>
 
-<div class="grid-item"><h2> <a href="modules/community-centered/"><div>community centered services<br />
+<div class="grid-item"><h2> <a href="modules/community-centered/"><div>Prompt Engineering<br />
  <img src="/img/moduleLogos/community-centered.png" width="90px" alt="Community-Centered Services" />
 </div></a></h2></div>
 
-<div class="grid-item"><h2> <a href="modules/youth-development/"><div>youth<br />development<br />
+<div class="grid-item"><h2> <a href="modules/youth-development/"><div>Data Analytics<br />
  <img src="/img/moduleLogos/youth-development.png" width="90px" alt="Youth Development" />
 </div></a></h2></div>
 
