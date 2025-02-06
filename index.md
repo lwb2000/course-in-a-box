@@ -4,7 +4,7 @@ published: true
 ---
 
 ## Welcome to the California Libraries <br />
- and AI Learning Experiences. 
+## and AI Learning Experiences <br />
 Select one of the options below to get started.
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
