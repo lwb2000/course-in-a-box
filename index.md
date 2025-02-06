@@ -3,8 +3,8 @@ layout: index
 published: true
 ---
 
-<center>## Welcome to the California Libraries <br />
- and AI Learning Experiences. </center>
+## Welcome to the California Libraries <br />
+ and AI Learning Experiences. 
 Select one of the options below to get started.
 
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
