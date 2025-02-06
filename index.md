@@ -10,13 +10,17 @@ Select one of the options below to get started.
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
-    <div> Introduction to <br />the <br />Learning Experiences<br />
+    <div> Introduction to <br />the <br />Learning Experiences <br />
+     <img src="/img/door.png" width="90px" alt="" />
   </div></a></h2></div>
 
  <div class="grid-item"> <h2><a href="modules/basics/"><div>I'm Curious <br /> & Skeptical<br />
+  <img src="/img/learning.png" width="90px" alt="" />
 </div></a></h2></div>
 
 <div class="grid-item"><h2> <a href="modules/community-centered/"><div>I Want to <br /> Begin Learning
+ <br />
+ <img src="/img/brain.png" width="90px" alt="" />
 </div></a></h2></div>
 
 <div class="grid-item"><h2> <a href="modules/youth-development/"><div>I've Started <br /> & Want to <br /> Learn More
