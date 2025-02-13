@@ -1,3 +1,3 @@
-<h1> About the California Libraries and AI Learning experiences</h1>
+<h1> About the California Libraries and AI Learning Experiences</h1>
 <p>The California Libraries and Ai Learning Experiences are a project of the California AI Collaborative and designed to provide library staff with information, skills, and knowledge so that they can bring AI to their communities.  Our modules are setup to connect with the ways in which library staff members are thinking about AI and it's implementation in libraries and communities. When you select a module you will go to a page that suggests different activities to take part in. You can try out all of the activieies or just the ones that most resonate with you.</p>
 <p>Learn more about the work of our Collaborative on our website.</p>
