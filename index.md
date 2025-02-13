@@ -17,18 +17,14 @@ Select one of the options below to get started.
  <div class="grid-item"> <h2><a href="modules/basics/"><div>I'm Curious <br /> & Skeptical<br />
   <img src="/img/thinking.png" width="90px" alt="" />
 </div></a></h2></div>
-
 <div class="grid-item"><h2> <a href="modules/community-centered/"><div>I Want to <br /> Begin Learning
  <br />
  <img src="/img/brain.png" width="90px" alt="" />
 </div></a></h2></div>
-
 <div class="grid-item"><h2> <a href="modules/youth-development/"><div>I've Started <br /> & Want to <br /> Learn More
 </div></a></h2></div>
-
 <div class="grid-item"><h2> <a href="modules/youth-development/"><div>I Want to <br /> Teach Others <br /> 
 </div></a></h2></div>
-
 <div class="grid-item"><h2> <a href="modules/youth-development/"><div>Where Can I <br /> Learn More <br /> 
 </div></a></h2></div>
 </div>
