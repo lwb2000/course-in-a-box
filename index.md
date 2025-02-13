@@ -10,7 +10,7 @@ Select one of the options below to get started.
 <div class="grid-container" style="margin-left:auto;margin-right:auto;">
 
  <div class="grid-item"><h2><a href="modules/introducing-the-toolkit/">
-    <div> Learning Experiences <br /> Introduction <br />
+    <div> <a href="https://github.com/lwb2000/course-in-a-box/tree/cf8d5c8e814a23c41724d6fd60fb2abb1de6a2f6/modules/learningexperiences/_posts">Learning Experiences <br /> Introduction</a> <br />
      <img src="img/door.png" width="90px" alt="" />
   </div></a></h2></div>
 
