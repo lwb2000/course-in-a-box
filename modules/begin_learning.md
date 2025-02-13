@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: base
 published: true
 ---
 <h2> I Want to Begin Learning </h2>
